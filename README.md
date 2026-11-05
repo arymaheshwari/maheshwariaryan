@@ -23,12 +23,12 @@ Hello! I'm Aryan, a Computer Science, Data Science, and Entrepreneurship Honors 
 
 ### Featured Projects
 
-- **[SHIPWizard](https://github.com/maheshwariaryan/SHIPWizard)** – A smart tool for optimizing shipping logistics  
-- **[Predicate Partition Tree (PPT)](https://github.com/maheshwariaryan/Predicate-Partition-Tree)** – A novel tree data structure improving search efficiency  
-- **[Traffic Sign Detection](https://github.com/maheshwariaryan/Traffic-Signs-Detection)** – A real-time traffic sign recognition system using AI  
-- **[Platformer Game](https://github.com/maheshwariaryan/funplatformergame)** – A fun and interactive game built from scratch  
+- **[SHIPWizard](https://github.com/arymaheshwari/SHIPWizard)** – A smart tool for optimizing shipping logistics  
+- **[Predicate Partition Tree (PPT)](https://github.com/arymaheshwari/Predicate-Partition-Tree)** – A novel tree data structure improving search efficiency  
+- **[Traffic Sign Detection](https://github.com/arymaheshwari/Traffic-Signs-Detection)** – A real-time traffic sign recognition system using AI  
+- **[Platformer Game](https://github.com/arymaheshwari/funplatformergame)** – A fun and interactive game built from scratch  
 
-For more details on my projects, check out [my GitHub repositories](https://github.com/maheshwariaryan).
+For more details on my projects, check out [my GitHub repositories](https://github.com/arymaheshwari).
 
 ### Contact Me
 
